@@ -1,0 +1,163 @@
+{
+  "id": "1585940",
+  "name": "vue-h5",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "85242",
+      "name": "短信",
+      "font_class": "duanxin",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "88127",
+      "name": "奖杯",
+      "font_class": "icon",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1396300",
+      "name": "奖杯",
+      "font_class": "iconfont-jiangbei",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "3084783",
+      "name": "倔强青铜",
+      "font_class": "jueqiangqingtong",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "3084784",
+      "name": "荣耀黄金",
+      "font_class": "rongyaohuangjin",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "3084785",
+      "name": "永恒钻石",
+      "font_class": "yonghengzuanshi",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "3084786",
+      "name": "秩序白银",
+      "font_class": "zhixubaiyin",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "3084787",
+      "name": "尊贵铂金",
+      "font_class": "zunguibojin",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "3855113",
+      "name": "mall",
+      "font_class": "mall",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "4436391",
+      "name": "tel",
+      "font_class": "weibiaoti-",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "5789257",
+      "name": "轨迹",
+      "font_class": "guiji",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "5926628",
+      "name": "转速",
+      "font_class": "zhuansu",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "6047380",
+      "name": "share",
+      "font_class": "share",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "6243955",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "6728339",
+      "name": "游戏",
+      "font_class": "youxi",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "8558319",
+      "name": "卡路里",
+      "font_class": "qialuli",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "8856196",
+      "name": "仪表盘",
+      "font_class": "yibiaopan-active",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8924662",
+      "name": "书",
+      "font_class": "shu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "9063537",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "9565546",
+      "name": "clock",
+      "font_class": "clock",
+      "unicode": "e7bd",
+      "unicode_decimal": 59325
+    },
+    {
+      "icon_id": "12552967",
+      "name": "Icon - Keyboard Arrow - Down - Rounded",
+      "font_class": "arrow-down",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "12572280",
+      "name": "Icon - Keyboard Arrow - Down - Rounded",
+      "font_class": "arrow-left-c",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
